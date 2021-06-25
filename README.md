@@ -1,5 +1,7 @@
 # Loan Swap
 
+[![built-with openzeppelin](https://img.shields.io/badge/built%20with-OpenZeppelin-3677FF)](https://docs.openzeppelin.com/)
+
 In finance, a loan is the lending of money by one or more individuals, organizations, or other entities to other individuals, organizations etc. The recipient (i.e., the borrower) incurs a debt and is usually liable to pay interest on that debt until it is repaid as well as to repay the principal amount borrowed.
 
 Acting as a provider of loans is one of the main activities of financial institutions such as banks and credit card companies.
@@ -80,3 +82,18 @@ https://www.reddit.com/r/CryptoTechnology/comments/n9hacq/lending_protocols_and_
 https://github.com/chronologic/debt-smart-contract/blob/master/contracts/DebtToken.sol
 
 https://blog.enjincoin.io/erc-1155-the-crypto-item-standard-ac9cf1c5a226
+
+# Bibliography
+
+https://en.wikipedia.org/wiki/Credit
+
+https://en.wikipedia.org/wiki/Title_loan
+
+https://en.wikipedia.org/wiki/Loan
+
+https://en.wikipedia.org/wiki/Contract
+
+https://en.wikipedia.org/wiki/Loan_covenant
+
+https://en.wikipedia.org/wiki/Bond_(finance)
+
